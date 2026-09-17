@@ -1,1 +1,1 @@
-# Rede-B-sica-Kathar-
+# Rede-Básica-Kathará
