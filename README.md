@@ -1,7 +1,7 @@
 # Rede-Básica-Kathará
 
 #### To do:
-#####* Reorganizar rede
+##### * Reorganizar rede
   - Roteadores devem ser os primeiros da rede
   - Trocar identificadores
       >- Rede A com "pc0", "pc1" e "r0"
@@ -21,5 +21,5 @@
           - pc3[0]=C
       >- Rede D se organiza sozinha
 
-####Topografia:
+#### Topografia:
 [Topografia no Draw.io](https://drive.google.com/file/d/1WPr9Ei1yLDAToAIUH0xiuMwlwGKGnEY1/view?usp=sharing)
