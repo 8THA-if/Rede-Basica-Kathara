@@ -2,12 +2,12 @@
 
 To do:
 * Reorganizar rede
-  -> Roteadores devem ser os primeiros da rede
-  -> Trocar identificadores
+  - Roteadores devem ser os primeiros da rede
+  - Trocar identificadores
       >> Rede A com "pc0", "pc1" e "r0"
       >> Rede B com "r0" e "r1"
       >> Rede C com "pc2", "pc3" e "r1"
-  -> Organizar lab.conf
+  - Organizar lab.conf
       >> Rede A:
           r0[0]=A
           pc0[0]=A
