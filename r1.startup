@@ -1,0 +1,15 @@
+#IP rede A
+ifconfig eth0 192.168.2.2/30
+
+#IP rede C
+ifconfig eth1 192.168.3.3/24
+
+#Conexão B -> r0 -> r1
+ip route add 192.168.1.0/24 via 192.168.2.1 dev eth0
+
+#Conectar internet
+iptables -t nat -A POSTROUTING -j MASQUERADE
+
+#padronizando terminal
+ip r
+route -n
