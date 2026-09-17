@@ -1,7 +1,7 @@
 # Rede-Básica-Kathará
 
 #### To do:
-##### * Reorganizar rede
+* ##### Reorganizar rede
   - Roteadores devem ser os primeiros da rede
   - Trocar identificadores
       >- Rede A com "pc0", "pc1" e "r0"
