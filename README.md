@@ -6,8 +6,8 @@
     - [Docker desktop](https://docs.docker.com/desktop/ "Downloads no final da página") aberto
     - Ao clonar o repositório, nem todos os arquivos nescessários estarão lá.
         - Abra a pasta clonada no cmd e digite o seguinte comando:
-            > mkdir r0, r1, pc0, pc1, pc2, pc3
-        Isso ira criar as pastas necessárias para que a emulação funcione
+          ``` mkdir r0, r1, pc0, pc1, pc2, pc3 ```
+          Isso ira criar as pastas necessárias para que a emulação funcione
 
 ### Topografia:
 [Topografia no Draw.io](https://drive.google.com/file/d/1WPr9Ei1yLDAToAIUH0xiuMwlwGKGnEY1/view?usp=sharing)
