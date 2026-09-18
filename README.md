@@ -1,25 +1,16 @@
 # Rede-Básica-Kathará
 
-### To do:
-* #### Reorganizar rede
-  - Roteadores devem ser os primeiros da rede
-  - Trocar identificadores
-      >- Rede A com "pc0", "pc1" e "r0"
-      >- Rede B com "r0" e "r1"
-      >- Rede C com "pc2", "pc3" e "r1"
-  - Organizar lab.conf
-      >- Rede A:
-          - r0[0]=A
-          - pc0[0]=A
-          - pc1[0]=A
-      >- Rede B:
-          - r0[1]=B
-          - r1[1]=B
-      >- Rede C:
-          - r1[0]=C
-          - pc2[0]=C
-          - pc3[0]=C
-      >- Rede D se organiza sozinha
+### Necessário para rodar:
+    - [WSL Latest](https://github.com/microsoft/WSL/releases "Releases do WSL") instalado
+    - [Kathara](https://www.kathara.org/download.html "Página de download") instalado
+    - [Docker desktop](https://docs.docker.com/desktop/ "Downloads no final da página") aberto
+    - Ao clonar o repositório, nem todos os arquivos nescessários estarão lá.
+        - Abra a pasta clonada no cmd e digite o seguinte comando:
+        > mkdir r0, r1, pc0, pc1, pc2, pc3
+        Isso ira criar as pastas necessárias para que a emulação funcione
 
 ### Topografia:
 [Topografia no Draw.io](https://drive.google.com/file/d/1WPr9Ei1yLDAToAIUH0xiuMwlwGKGnEY1/view?usp=sharing)
+
+### To do:
+* #### ~~Reorganizar topologia de rede~~
