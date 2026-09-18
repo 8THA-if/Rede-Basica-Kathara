@@ -10,7 +10,7 @@
 
 * ### Inicialização:
     - Ainda no cmd da pasta clonada, utilize "```kathara lstart```" para iniciar a emulação
-      > Após iniciá-la use "```kathara list```" caso queira mais detalhes sobre a emulação
+      > Após iniciá-la, use "```kathara list```" caso queira mais detalhes sobre a emulação
 
 * ### Testes:
     - Todas os computadores e roteadores estão conectados entre si:
