@@ -1,6 +1,6 @@
 # Rede-Básica-Kathará
 
-### Necessário para rodar:
+* ### Necessário para rodar:
     - [WSL Latest](https://github.com/microsoft/WSL/releases "Releases do WSL") instalado
     - [Kathara](https://www.kathara.org/download.html "Página de download") instalado
     - [Docker desktop](https://docs.docker.com/desktop/ "Downloads no final da página") aberto
