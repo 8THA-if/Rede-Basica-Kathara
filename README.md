@@ -15,7 +15,7 @@
 * ### Testes:
     - Todas os computadores e roteadores estão conectados entre si:
         - Utilize ```ping [ip da máquina]``` para testar essas conexões
-            - O roteador ```r1``` tem uma "ponte" para se conectar com a internet real, você pode pingar ips reais utilizando qualquer uma das máquinas presentes na emulação
+          > O roteador ```r1``` tem uma "ponte" para se conectar com a internet real, você pode pingar ips reais utilizando qualquer uma das máquinas presentes na emulação
         - Utilize ```traceroute [ip da máquina]``` para ver o caminho que o pacote precisa tomar para que chegue em outra máquina
 
 ### Topografia:
