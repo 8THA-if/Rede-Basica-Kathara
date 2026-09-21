@@ -24,5 +24,17 @@
 
 [Topologia no Draw.io](https://drive.google.com/file/d/1WPr9Ei1yLDAToAIUH0xiuMwlwGKGnEY1/view?usp=sharing)
 
+### Tabela de Rede:
+| Rede | Prefixo | Dispositivo | Interface | Endereço IP | Função |
+| :---: | --- | :---: | :---: | --- | --- |
+| A | 192.168.1.0/24 | pc0 | eth0 | 192.168.1.2 | Host |
+| A | 192.168.1.0/24 | pc1 | eth0 | 192.168.1.3 | Host |
+| A | 192.168.1.0/24 | r0 | eth0 | 192.168.1.1 | Gateway |
+| B | 192.168.2.0/30 | r0 | eth1 | 192.168.2.1 | Roteador |
+| B | 192.168.2.0/30 | r1 | eth1 | 192.168.2.2 | Roteador |
+| C | 192.168.3.0/24 | r1 | eth0 | 192.168.3.1 | Gateway |
+| C | 192.168.3.0/24 | pc2 | eth0 | 192.168.3.2 | Host |
+| C | 192.168.3.0/24 | pc3 | eth0 | 192.168.3.3 | Host |
+
 ### To do:
 * #### ~~Reorganizar topologia de rede~~
