@@ -18,8 +18,11 @@
           > O roteador ```r1``` tem uma "ponte" para se conectar com a internet real, você pode pingar ips reais utilizando qualquer uma das máquinas presentes na emulação
         - Utilize ```traceroute [ip da máquina]``` para ver o caminho que o pacote precisa tomar para que chegue em outra máquina
 
-### Topografia:
-[Topografia no Draw.io](https://drive.google.com/file/d/1WPr9Ei1yLDAToAIUH0xiuMwlwGKGnEY1/view?usp=sharing)
+### Topologia:
+
+<img width="737" height="581" alt="LabTopologia" src="./assets/LabTopologia.jpg" />
+
+[Topologia no Draw.io](https://drive.google.com/file/d/1WPr9Ei1yLDAToAIUH0xiuMwlwGKGnEY1/view?usp=sharing)
 
 ### To do:
 * #### ~~Reorganizar topologia de rede~~
